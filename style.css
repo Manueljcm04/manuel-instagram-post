@@ -1,0 +1,82 @@
+.general {
+    width: 600px;
+    height: 1200px;
+    margin: 60px;
+    margin-top: 60px;
+margin-right: 60px;
+margin-bottom: 60px;
+margin-left: 60px;
+}
+.body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.encabezado {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .encabezado1 {
+    float: left;
+    margin: 10px;
+    margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+  }
+  .fa-brands, .fab {
+    font-weight: 400;
+  }
+  .encabezado2 {
+    float: left;
+    margin: 10px;
+    margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+  }
+  .encabezado3 {
+    float: right;
+    flex: 1 1 0%;
+    text-align: right;
+    margin-right: 8px;
+  }
+  .imagen {
+    width: 100%;
+  }
+  .imagen img {
+    width: 100%;
+  }
+  .footer {
+    background-color: white;
+    width: 100%;
+  }
+  .iconos {
+    display: flex;
+    flex-direction: row;
+  }
+  .guardar {
+    width: 100%;
+    display: flex;
+    .guardar i {
+  flex: 1 1 0%;
+  text-align: right;
+  margin-right: 8px;
+}
+.guardar i {
+    flex: 1 1 0%;
+    text-align: right;
+    margin-right: 8px;
+  }
+  }
+  .fa-regular, .far {
+    font-weight: 400;
+  }
+  .fa-regular, .far {
+    font-weight: 400;
+  }
+  .fa-regular, .far {
+    font-weight: 400;
+  }
