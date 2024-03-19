@@ -1,6 +1,6 @@
 .general {
     width: 600px;
-    height: 1200px;
+    height: 1300px;
     margin: 60px;
     margin-top: 60px;
 margin-right: 60px;
@@ -60,6 +60,7 @@ margin-left: 10px;
   .guardar {
     width: 100%;
     display: flex;
+  }
     .guardar i {
   flex: 1 1 0%;
   text-align: right;
@@ -70,7 +71,6 @@ margin-left: 10px;
     text-align: right;
     margin-right: 8px;
   }
-  }
   .fa-regular, .far {
     font-weight: 400;
   }
@@ -79,4 +79,27 @@ margin-left: 10px;
   }
   .fa-regular, .far {
     font-weight: 400;
+  }
+  i {
+    font-size: 30px;
+  }
+  .guardar i {
+    flex: 1 1 0%;
+    text-align: right;
+    margin-right: 8px;
+  }
+  .corazon{
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  .comentario{
+    margin-right: 8px;
+  }
+  .texto{
+    margin-bottom: 16px;
+    height: 70px;
+    padding: 0 8px;
+  }
+  .likes{
+    padding: 0 8px;
   }
