@@ -7,18 +7,19 @@ margin-right: 60px;
 margin-bottom: 60px;
 margin-left: 60px;
 }
+/* cambio de idioma*/
 .body {
     background-color: black;
     display: flex;
     justify-content: center;
 }
-.encabezado {
+.header {
     background-color: white;
     width: 100%;
     display: flex;
     align-items: center;
   }
-  .encabezado1 {
+  .header1 {
     float: left;
     margin: 10px;
     margin-top: 10px;
@@ -29,7 +30,7 @@ margin-left: 10px;
   .fa-brands, .fab {
     font-weight: 400;
   }
-  .encabezado2 {
+  .header2 {
     float: left;
     margin: 10px;
     margin-top: 10px;
@@ -37,36 +38,36 @@ margin-right: 10px;
 margin-bottom: 10px;
 margin-left: 10px;
   }
-  .encabezado3 {
+  .header3 {
     float: right;
     flex: 1 1 0%;
     text-align: right;
     margin-right: 8px;
   }
-  .imagen {
+  .image {
     width: 100%;
   }
-  .imagen img {
+  .image img {
     width: 100%;
   }
   .footer {
     background-color: white;
     width: 100%;
   }
-  .iconos {
+  .icons {
     display: flex;
     flex-direction: row;
   }
-  .guardar {
+  .save {
     width: 100%;
     display: flex;
   }
-    .guardar i {
+    .save i {
   flex: 1 1 0%;
   text-align: right;
   margin-right: 8px;
 }
-.guardar i {
+.save i {
     flex: 1 1 0%;
     text-align: right;
     margin-right: 8px;
@@ -83,19 +84,19 @@ margin-left: 10px;
   i {
     font-size: 30px;
   }
-  .guardar i {
+  .save i {
     flex: 1 1 0%;
     text-align: right;
     margin-right: 8px;
   }
-  .corazon{
+  .heart{
     margin-left: 8px;
     margin-right: 8px;
   }
-  .comentario{
+  .comment{
     margin-right: 8px;
   }
-  .texto{
+  .text{
     margin-bottom: 16px;
     height: 70px;
     padding: 0 8px;
